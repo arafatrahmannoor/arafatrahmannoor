@@ -1,99 +1,187 @@
-<h1 align="center">Hi there 👋, I'm Arafat Rahman Noor</h1>
-<h3 align="center">Full-Stack Developer (MERN • Next.js • Django) and AI Researcher based in Dhaka, Bangladesh</h3>
+<!-- ====== HERO BANNER ====== -->
+<a href="https://github.com/arafatrahmannoor">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Arafat%20Rahman%20Noor&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Next.js%20%E2%80%A2%20Django%20%E2%80%A2%20AI%20Researcher&descSize=18&descAlignY=60&descAlign=50" alt="banner" />
+</a>
 
+<!-- ====== TYPING ANIMATION ====== -->
+<p align="center">
+  <a href="https://github.com/arafatrahmannoor">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=600&color=00D4FF&center=true&vCenter=true&width=720&lines=Hi+there+%F0%9F%91%8B+I'm+Arafat+Rahman+Noor;Full-Stack+Developer+%7C+MERN+%E2%80%A2+Next.js+%E2%80%A2+Django;AI+%2F+ML+Researcher+%F0%9F%A4%96;Open+to+Full-time+%26+Freelance+Roles+%F0%9F%9A%80;Let's+build+something+amazing+together!" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- ====== SOCIAL BADGES ====== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/arafat-rahman-7ab313219/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:arafat2001noor@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:arafat2001noor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/arafatrahmannoor"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Open_to_Work-2EA44F?style=for-the-badge&logo=briefcase&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arafatrahmannoor&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=arafatrahmannoor&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/arafatrahmannoor?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/arafatrahmannoor?label=Stars&style=for-the-badge&color=yellow" />
+</p>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+```yaml
+name: Arafat Rahman Noor
+location: Dhaka, Bangladesh
+role: Full-Stack Developer & AI Researcher
+focus:
+  - Production-grade web apps with MERN, Next.js, Django
+  - AI / ML prototyping (classification, prediction, CV)
+currently_learning:
+  - TypeScript at depth
+  - System design & cloud deployment
+ask_me_about: [React, Node.js, Express, MongoDB, Django, JWT, REST APIs]
+status: 🟢 Open to Full-time & Freelance Opportunities
+contact: arafat2001noor@gmail.com
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css&theme=dark" />
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite&theme=dark" />
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" />
+</p>
+
+### Database & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,vercel,netlify&theme=dark" />
+</p>
+
+### Tools & AI/ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ---
 
-### 💼 About Me
+## 🚀 Featured Projects
 
-- 🔭 I build **production-grade full-stack web apps** with the MERN stack, Next.js, and Django
-- 🧠 I research and prototype **AI / ML** solutions (classification, prediction, computer vision)
-- 🌱 Currently deepening my skills in **TypeScript, system design, and cloud deployment**
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Django, REST APIs, JWT auth**
-- 🚀 **Open to full-time roles and freelance projects** — let's build something great together
-- 📫 Reach me at **arafat2001noor@gmail.com**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Multivendor E-Commerce (Full-Stack)
+Complete MERN platform with vendor & admin dashboards, JWT auth, cart, checkout, and payment integration.
+<br/><br/>
+`React` `Node` `Express` `MongoDB` `Tailwind`
+<br/>
+🔗 [View Repository](https://github.com/arafatrahmannoor/multivendor-ecommerce-project-with-mern-stack--Full-Stack)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 E-Commerce Backend API
+Secure REST API with JWT, role-based access, and full CRUD for products, orders, users & categories.
+<br/><br/>
+`Node.js` `Express` `MongoDB` `JWT`
+<br/>
+🔗 [View Repository](https://github.com/arafatrahmannoor/multivendor-ecommerce-project-with-mern-stack--Backend)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 E-Commerce Frontend
+React + Vite SPA with cart, checkout, vendor & admin dashboards, and a fully responsive UI.
+<br/><br/>
+`React` `Vite` `Tailwind CSS`
+<br/>
+🔗 [View Repository](https://github.com/arafatrahmannoor/multivendor-ecommerce-project-with-mern-stack--Frontend-)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Appify Analytics Dashboard
+Modern analytics dashboard — charts, KPIs, and a clean, responsive UI built on Next.js.
+<br/><br/>
+`Next.js` `TypeScript` `Tailwind`
+<br/>
+🔗 [View Repository](https://github.com/arafatrahmannoor/appify-analytics-dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔑 Next.js + Clerk Auth
+Full authentication flow (sign-in, sign-up, protected routes) using Clerk on Next.js + TypeScript.
+<br/><br/>
+`Next.js` `Clerk` `TypeScript`
+<br/>
+🔗 [View Repository](https://github.com/arafatrahmannoor/Next-Js-Practice-Project-with-Clerk)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Health Measure & Prediction
+ML notebook for health-metric measurement and disease-risk prediction with scikit-learn.
+<br/><br/>
+`Python` `Jupyter` `scikit-learn`
+<br/>
+🔗 [View Repository](https://github.com/arafatrahmannoor/Health-Measure-and-Prediction)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Database & Tools**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**AI / ML**  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Multivendor E-Commerce (Full-Stack)**](https://github.com/arafatrahmannoor/multivendor-ecommerce-project-with-mern-stack--Full-Stack) | Complete MERN e-commerce platform with role-based dashboards, JWT auth, and payment integration | React, Node, Express, MongoDB, Tailwind |
-| [**E-Commerce Backend API**](https://github.com/arafatrahmannoor/multivendor-ecommerce-project-with-mern-stack--Backend) | Secure REST API: products, orders, users, categories, JWT auth, role-based access | Node.js, Express, MongoDB |
-| [**E-Commerce Frontend**](https://github.com/arafatrahmannoor/multivendor-ecommerce-project-with-mern-stack--Frontend-) | React + Vite SPA: cart, checkout, admin & vendor dashboards, responsive UI | React, Vite, Tailwind |
-| [**Appify Analytics Dashboard**](https://github.com/arafatrahmannoor/appify-analytics-dashboard) | Modern analytics dashboard built with Next.js & TypeScript | Next.js, TypeScript |
-| [**Next.js + Clerk Auth App**](https://github.com/arafatrahmannoor/Next-Js-Practice-Project-with-Clerk) | Full auth flow demo using Clerk authentication on Next.js | Next.js, Clerk, TypeScript |
-| [**Health Measure & Prediction**](https://github.com/arafatrahmannoor/Health-Measure-and-Prediction) | ML notebook for health metric prediction & analysis | Python, Jupyter, scikit-learn |
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arafatrahmannoor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatrahmannoor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=arafatrahmannoor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatrahmannoor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafatrahmannoor&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=arafatrahmannoor&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arafatrahmannoor&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arafatrahmannoor&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arafatrahmannoor&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Build Something Together
 
-I'm currently **open to full-time and freelance opportunities**. If you're hiring or want to collaborate, feel free to reach out:
+I'm currently **open to full-time and freelance opportunities**. If you're hiring, want to collaborate, or just say hi — reach out:
 
-- 💼 **LinkedIn:** [arafat-rahman-7ab313219](https://www.linkedin.com/in/arafat-rahman-7ab313219/)
-- 📧 **Email:** arafat2001noor@gmail.com
-- 🌐 **GitHub:** [@arafatrahmannoor](https://github.com/arafatrahmannoor)
+<p align="center">
+  <a href="https://www.linkedin.com/in/arafat-rahman-7ab313219/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:arafat2001noor@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<p align="center"><i>Thanks for visiting — let's build something great together! 🚀</i></p>
+<!-- ====== FOOTER ====== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontColor=ffffff&fontAlignY=70" alt="footer" />
