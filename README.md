@@ -152,6 +152,18 @@ ML notebook for health-metric measurement and disease-risk prediction with sciki
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arafatrahmannoor/arafatrahmannoor/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arafatrahmannoor/arafatrahmannoor/output/github-snake.svg" />
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/arafatrahmannoor/arafatrahmannoor/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
