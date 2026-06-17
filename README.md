@@ -85,71 +85,70 @@ contact: arafat2001noor@gmail.com
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Multivendor E-Commerce (Full-Stack)
-Complete MERN platform with vendor & admin dashboards, JWT auth, cart, checkout, and payment integration.
+### 🛒 Multivendor E-Commerce
+A complete MERN-stack platform featuring a modern React frontend (Vite, Tailwind) and a robust Node.js backend.
 <br/><br/>
-`React` `Node` `Express` `MongoDB` `Tailwind`
+`React` `Node.js` `MongoDB` `Express` `Tailwind`
 <br/>
 🔗 [View Repository](https://github.com/arafatrahmannoor/multivendor-ecommerce-project-with-mern-stack--Full-Stack)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 E-Commerce Backend API
-Secure REST API with JWT, role-based access, and full CRUD for products, orders, users & categories.
+### ✈️ Travisor Travel Solution
+A responsive travel solution site designed for travel enthusiasts, built with a fast React and Vite setup.
 <br/><br/>
-`Node.js` `Express` `MongoDB` `JWT`
+`React` `Vite` `JavaScript` `Firebase`
 <br/>
-🔗 [View Repository](https://github.com/arafatrahmannoor/multivendor-ecommerce-project-with-mern-stack--Backend)
+🔗 [View Repository](https://github.com/arafatrahmannoor/Travisor-React-)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 E-Commerce Frontend
-React + Vite SPA with cart, checkout, vendor & admin dashboards, and a fully responsive UI.
+### 📚 Course Management API
+A RESTful API for managing courses, users, and purchases with JWT authentication and role-based access control.
 <br/><br/>
-`React` `Vite` `Tailwind CSS`
+`Node.js` `Express.js` `MongoDB` `JWT`
 <br/>
-🔗 [View Repository](https://github.com/arafatrahmannoor/multivendor-ecommerce-project-with-mern-stack--Frontend-)
+🔗 [View Repository](https://github.com/arafatrahmannoor/course-management-system-Backend)
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Appify Analytics Dashboard
-Modern analytics dashboard — charts, KPIs, and a clean, responsive UI built on Next.js.
+### 💼 NSDA Job Seeker
+A comprehensive web-based job portal and management application built to seamlessly connect job seekers with opportunities.
 <br/><br/>
-`Next.js` `TypeScript` `Tailwind`
+`Django` `Python` `SQLite` `HTML/CSS`
+<br/>
+🔗 [View Repository](https://github.com/arafatrahmannoor/NSDA-JobSeeker)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Appify Analytics Dashboard
+Modern analytics dashboard built with Next.js and TypeScript featuring interactive charts, metrics, and a clean UI.
+<br/><br/>
+`Next.js` `TypeScript` `Tailwind CSS` `Zustand`
 <br/>
 🔗 [View Repository](https://github.com/arafatrahmannoor/appify-analytics-dashboard)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 🔑 Next.js + Clerk Auth
-Full authentication flow (sign-in, sign-up, protected routes) using Clerk on Next.js + TypeScript.
+### 🌟 Explore More
+Check out my full GitHub profile for more repositories, including machine learning notebooks and UI experiments.
 <br/><br/>
-`Next.js` `Clerk` `TypeScript`
+`Medical AI` `IoT` `Blockchain` `Data Science`
 <br/>
-🔗 [View Repository](https://github.com/arafatrahmannoor/Next-Js-Practice-Project-with-Clerk)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Health Measure & Prediction
-ML notebook for health-metric measurement and disease-risk prediction with scikit-learn.
-<br/><br/>
-`Python` `Jupyter` `scikit-learn`
-<br/>
-🔗 [View Repository](https://github.com/arafatrahmannoor/Health-Measure-and-Prediction)
+🔗 [View GitHub Profile](https://github.com/arafatrahmannoor)
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🐍 Contribution Snake
