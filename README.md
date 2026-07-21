@@ -12,16 +12,16 @@
 
 <!-- ====== SOCIAL BADGES ====== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/arafat-rahman-7ab313219/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:arafat2001noor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/arafatrahmannoor"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Open_to_Work-2EA44F?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work" />
+  <a href="https://www.linkedin.com/in/arafat-rahman-7ab313219/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:arafat2001noor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/arafatrahmannoor"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Open_to_Work-2EA44F?style=for-the-badge&logo=briefcase&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arafatrahmannoor&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/arafatrahmannoor?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/arafatrahmannoor?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/arafatrahmannoor?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/arafatrahmannoor?label=Stars&style=for-the-badge&color=yellow" />
 </p>
 
 <br/>
@@ -41,6 +41,8 @@ currently_learning:
 ask_me_about: [React, Node.js, Express, MongoDB, Django, JWT, REST APIs]
 status: 🟢 Open to Full-time & Freelance Opportunities
 contact: arafat2001noor@gmail.com
+```
+
 ---
 
 ## 🛠️ Tech Stack
